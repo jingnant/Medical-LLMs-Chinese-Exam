@@ -1,4 +1,4 @@
-<h1 align='center'>中文大模型的医疗评估</h1>
+<h1 align='center'>中文医疗大模型考试评估</h1>
 
 
 <div align="center"><img width="300" height="300" src="./image/logo.png"></div>
